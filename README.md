@@ -36,4 +36,31 @@ I like playing **golf** because it is a sport that you can play for a **lifetime
 
 *Phil Dunphy*
 
+---
+
+### Code Fencing
+This code snippet gets the value of an object with an interface.
+~~~
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+const myObject: MyInterface = {
+  id: 1,
+  name: 'foo',
+  properties: ['a', 'b', 'c']
+};
+
+function getValue(value: keyof MyInterface) {
+  return myObject[value];
+}
+
+getValue('id'); // 1
+getValue('count')
+~~~
+[Link to snippet source](https://code.pieces.app/collections/typescript)
+
+
 [Link to MyDish.md](MyDish.md)
