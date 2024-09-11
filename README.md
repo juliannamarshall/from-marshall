@@ -14,3 +14,5 @@ I like playing **golf** because it is a sport that you can play for a **lifetime
 - Golf Course
 - Top Golf
 - Golf Simulator
+
+**[Link to MyDish.md](MyDish.md)
