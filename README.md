@@ -25,4 +25,10 @@ I like playing **golf** because it is a sport that you can play for a **lifetime
 | Neptune Bakery | Delicious Custard and Baked goods | Jersey City, NJ |
 | McDonalds | Cheap and Quick Fast Food | Maryville, MO |
 
-**[Link to MyDish.md](MyDish.md)
+---
+
+### Jokes
+> The worst thing about prison was the dementors. *Michael Scott*
+> When life gives you lemonade, make lemos. Life will be all like What?? *Phil Dunphy*
+
+[Link to MyDish.md](MyDish.md)
