@@ -5,7 +5,12 @@ I like playing **golf** because it is a sport that you can play for a **lifetime
 
 ---
 
-#Three people who play golf
+### Three people who play golf
 1. Tiger Woods
 2. Rory McIlroy
 3. William Marshall (My Dad)
+
+### Places you can play golf
+- Golf Course
+- Top Golf
+- Golf Simulator
